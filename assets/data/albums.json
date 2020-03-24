@@ -1,0 +1,1213 @@
+[
+    {
+        "id":"1",
+       "name": "Map of the Soul: 7",
+       "picture" : {
+            "src" : "assets/img/7.jpg",
+            "alt" : "Map of the Soul: 7"
+        },
+       "dateRelease": "2020-02-21",
+       "typeOfAlbum":{
+           "id":1,
+           "type":"Full-Length Album"
+       },
+       "language":{
+            "id":"1",
+            "lang":"Korean"
+        },
+        "price":"$40",
+       "tracks": [
+          {
+            "id": 1,
+            "title": "Interlude: Shadow"
+          },
+          {
+            "id": 2,
+            "title": "Black Swan"
+          },
+          {
+            "id":"3",
+            "title":"Filter"
+          },
+          {
+            "id":"4",
+            "title":"My Time"
+          },
+          {
+            "id":"5",
+            "title":"Louder That Bombs"
+          },
+          {
+            "id":"6",
+            "title":"ON"
+          },
+          {
+            "id":"7",
+            "title":"Ugh!"
+          },
+          {
+            "id":"8",
+            "title":"00:00(Zero O'Clock)"
+          },
+          {
+            "id":"9",
+            "title":"Inner Child"
+          },
+          {
+            "id":"10",
+            "title":"Friends"
+          },
+          {
+            "id":"11",
+            "title":"Moon"
+          },
+          {
+            "id":"12",
+            "title":"We are Bulletproof: the Eternal"
+          },
+          {
+            "id":"13",
+            "title":"Outro: Ego"
+          }
+         
+       ],
+       "description" : "“MAP OF THE SOUL : 7” looks back on the past seven years of BTS since their debut as seven members of one team. The journey was not always smooth sailing, and there were special travails that they had to endure in their rise as global superstars. Now, understanding that the scars left by those hardships is a part of their real selves, BTS accepts both “the self I want to show” and the “self I want to scorn” to at last tell their own story of finding their “real and complete selves”.",
+       "pick":"0",
+       "hearts":"5"
+    },
+    {
+        "id":"2",
+       "name": "Map of the Soul: Persona",
+       "picture" : {
+            "src" : "assets/img/persona.jpg",
+            "alt" : "Map of the Soul: Persona"
+        },
+       "dateRelease": "2019-04-12",
+       "typeOfAlbum":{
+           "id":"2",
+           "type":"Mini Album"
+       },
+       "language":{
+            "id":"1",
+            "lang":"Korean"
+        },
+       "price":"$30",
+       "tracks": [
+          {
+             "id": 1,
+             "title": "Intro:Persona"
+          },
+          {
+             "id": 2,
+             "title": "Boy With Luv ft. Halsey"
+          },
+          {
+             "id": 3,
+             "title": "Mikrokosmos"
+          },
+          {
+             "id": 4,
+             "title": "Make It Right"
+          },
+          {
+             "id": 5,
+             "title": "Home"
+          },
+          {
+             "id": 6,
+             "title": "Jamais Vu"
+          },
+          {
+             "id": 7,
+             "title": "Dionysus"
+          }
+       ],
+       "description":"Opening the MAP OF THE SOUL series with PERSONA, BTS talks about the joy in finding love, and reaches out to the world with the messages they want to share with their fans. The band is especially curious about the stories of each and everyone who have helped them become who they are today.There are a total of seven tracks in this album, through which BTS weaves together what they genuinely felt both within themselves and the ever-widening world around them.",
+       "pick":"0",
+       "hearts":"4"
+    },
+    {
+        "id":"3",
+        "name": "Love Yourself: Answer",
+        "picture" : {
+            "src" : "assets/img/answer.jpg",
+            "alt" : "Love Yourself: Answer"
+        },
+       "dateRelease": "2018-08-24",
+       "typeOfAlbum": {
+           "id":"3",
+           "type":"Repackaged Album"
+       },
+       "language":{
+            "id":"1",
+            "lang":"Korean"
+       },
+       "price":"$35",
+       "tracks": [
+          {
+             "id": 1,
+             "title": "Euphoria"
+          },
+          {
+             "id": 2,
+             "title": "Trivia: Just Dance"
+          },
+          {
+             "id": 3,
+             "title": "Serendipity (Full-Length Edition)"
+          },
+          {
+             "id": 4,
+             "title": "DNA"
+          },
+          {
+             "id": 5,
+             "title": "Dimple (Illegal)"
+          },
+          {
+             "id": 6,
+             "title": "Trivia: Love"
+          },
+          {
+             "id": 7,
+             "title": "Her"
+          },
+          {
+             "id": 8,
+             "title": "Singularity"
+          },
+          {
+             "id": 9,
+             "title": "FAKE LOVE"
+          },
+          {
+             "id": 10,
+             "title": "The Truth Untold (feat. Steve Aoki)"
+          },
+          {
+             "id": 11,
+             "title": "Trivia: Seesaw"
+          },
+          {
+             "id": 12,
+             "title": "Epiphany"
+          },
+          {
+             "id": 13,
+             "title": "`I'm fine`"
+          },
+          {
+             "id": 14,
+             "title": "IDOL"
+          },
+          {
+             "id": 15,
+             "title": "Answer: Love Myself"
+          }
+       ],
+       "description":" Like a well-written novel having introduction, development, twists, and conclusion it shared a compelling story for two and a half years. ‘ANSWER’ is the final piece of the puzzle. Though it’s a repackaged album, LOVE YOURSELF 結 ‘ANSWER’ still includes seven brand-new tracks. CD A is a concept album, its sixteen tracks all connected lyrically to highlight BTS’ prowess as both artists and storytellers.A celebration with the ARMY.",
+       "pick":"0",
+       "hearts":"2"
+    },
+    {
+        "id":"4",
+       "name": "Love Yourself: Tear",
+       "picture" : {
+            "src" : "assets/img/tear.jpg",
+            "alt" : "Love Yourself: Tear"
+        },
+       "dateRelease": "2018-05-18",
+       "typeOfAlbum": {
+           "id":"1",
+           "type":"Full-Length Album"
+       },
+       "language":{
+            "id":"1",
+            "lang":"Korean"
+        },
+       "price":"$32",
+       "tracks": [
+          {
+             "id": 1,
+             "title": "Intro: Singularity"
+          },
+          {
+             "id": 2,
+             "title": "FAKE LOVE"
+          },
+          {
+             "id": 3,
+             "title": "The Truth Untold (feat. Steve Aoki)"
+          },
+          {
+             "id": 4,
+             "title": "134340"
+          },
+          {
+             "id": 5,
+             "title": "Paradise"
+          },
+          {
+             "id": 6,
+             "title": "Love Maze"
+          },
+          {
+             "id": 7,
+             "title": "Magic Shop"
+          },
+          {
+             "id": 8,
+             "title": "Airplane pt.2"
+          },
+          {
+             "id": 9,
+             "title": "Anpanman"
+          },
+          {
+             "id": 10,
+             "title": "So What"
+          },
+          {
+             "id": 11,
+             "title": "Outro: Tear"
+          }
+       ],
+       "description":"Fake love inevitably leads to loss and separation, for true love can only begin when you learn to love yourself. The concept album explores themes relating to the pains and sorrows of separation. <br/><br/> BTS’ LOVE YOURSELF series bears the message that loving oneself is the beginning of true love. Whereas the previously unveiled LOVE YOURSELF 起 ‘WONDER’ and LOVE YOURSELF 承 ‘HER’ albums expressed the heart-fluttering and tingling moments of love, LOVE YOURSELF 轉 ‘TEAR’ album embodies the pain of boys faced with parting.",
+       "pick":"1",
+       "hearts":"5"
+    },
+    {
+        "id":"5",
+       "name": "Love Yourself: Her",
+       "picture" : {
+            "src" : "assets/img/her.jpg",
+            "alt" : "Love Yourself: Her"
+        },
+       "dateRelease": "2017-09-18",
+       "typeOfAlbum": {
+           "id":"2",
+           "type":"Mini Album"
+       },
+       "language":{
+            "id":"1",
+            "lang":"Korean"
+        },
+        "price":"$30",
+       "tracks": [
+          {
+             "id": 1,
+             "title": "Intro: Serendipity"
+          },
+          {
+             "id": 2,
+             "title": "DNA"
+          },
+          {
+             "id": 3,
+             "title": "Best of Me"
+          },
+          {
+             "id": 4,
+             "title": "Dimple"
+          },
+          {
+             "id": 5,
+             "title": "Pied Piper"
+          },
+          {
+             "id": 6,
+             "title": "Skit: Billboard Music Awards Speech"
+          },
+          {
+             "id": 7,
+             "title": "MIC Drop"
+          },
+          {
+             "id": 8,
+             "title": "Go Go"
+          },
+          {
+             "id": 9,
+             "title": "Outro: Her"
+          }
+       ],
+       "description":"LOVE YOURSELF 承 'HER' is an expression of the anxiety and elation of love, told in the unique style of BTS. The “love” that BTS aims to convey in the LOVE YOURSELF series is both the individual experience of a boy growing into adulthood and a message of peace and unity to our society today. In the mini album 承 'HER' that begins this new narrative, the image of boys in love for the first time are expressed in a refreshing and cheerful take that aims to talk about the topic of “love” while immersed in a coming-of-age tale.",
+       "pick":"0",
+       "hearts":"4"
+    },
+    {
+        "id":"6",
+       "name": "You Never Walk Alone",
+       "picture" : {
+            "src" : "assets/img/ynwa.jpg",
+            "alt" : "You Never Walk Alone"
+        },
+       "dateRelease": "2016-09-10",
+       "typeOfAlbum":{
+           "id":"4",
+           "type":"Special Album"
+       },
+       "language":{
+            "id":"1",
+            "lang":"Korean"
+        },
+        "price":"$35",
+       "tracks": [
+          {
+             "id": 1,
+             "title": "Intro: Boy Meets Evil"
+          },
+          {
+             "id": 2,
+             "title": "Blood Sweat & Tears"
+          },
+          {
+             "id": 3,
+             "title": "Begin"
+          },
+          {
+             "id": 4,
+             "title": "Lie"
+          },
+          {
+             "id": 5,
+             "title": "Stigma"
+          },
+          {
+             "id": 6,
+             "title": "First Love"
+          },
+          {
+             "id": 7,
+             "title": "Reflection"
+          },
+          {
+             "id": 8,
+             "title": "MAMA"
+          },
+          {
+             "id": 9,
+             "title": "Awake"
+          },
+          {
+             "id": 10,
+             "title": "Lost"
+          },
+          {
+             "id": 11,
+             "title": "BTS Cypher 4"
+          },
+          {
+             "id": 12,
+             "title": "Am I Wrong"
+          },
+          {
+             "id": 13,
+             "title": "21st Century Girl"
+          },
+          {
+             "id": 14,
+             "title": "2!3!"
+          },
+          {
+             "id": 15,
+             "title": "Spring Day"
+          },
+          {
+             "id": 16,
+             "title": "Not Today"
+          },
+          {
+             "id": 17,
+             "title": "Outro: Wings"
+          },
+          {
+             "id": 18,
+             "title": "A Supplementary Story: You Never Walk Alone"
+          }
+       ],
+       "description":"YOU NEVER WALK ALONE completes the stories of youth and growth that could not all be contained in the WINGS album. Whereas The most beautiful moment in life series and WINGS were narratives of youth and growth, this additional chapter to WINGS is a message of warm consolation and hope for the suffering youth of this generation.",
+       "pick":"0",
+       "hearts":"5"
+    },
+    {
+        "id":"7",
+       "name": "Wings",
+       "picture" : {
+            "src" : "assets/img/wings.jpg",
+            "alt" : "Wings"
+        },
+       "dateRelease": "2016-10-10",
+       "typeOfAlbum":{
+           "id":"1",
+           "type":"Full-Length Album"
+       },
+       "language":{
+            "id":"1",
+            "lang":"Korean"
+        },
+        "price":"$30",
+       "tracks": [
+          {
+             "id": 1,
+             "title": "Intro: Boy Meets Evil"
+          },
+          {
+             "id": 2,
+             "title": "Blood Sweat & Tears"
+          },
+          {
+             "id": 3,
+             "title": "Begin"
+          },
+          {
+             "id": 4,
+             "title": "Lie"
+          },
+          {
+             "id": 5,
+             "title": "Stigma"
+          },
+          {
+             "id": 6,
+             "title": "First Love"
+          },
+          {
+             "id": 7,
+             "title": "Reflection"
+          },
+          {
+             "id": 8,
+             "title": "MAMA"
+          },
+          {
+             "id": 9,
+             "title": "Awake"
+          },
+          {
+             "id": 10,
+             "title": "Lost"
+          },
+          {
+             "id": 11,
+             "title": "BTS Cypher 4"
+          },
+          {
+             "id": 12,
+             "title": "Am I Wrong"
+          },
+          {
+             "id": 13,
+             "title": "21st Century Girl"
+          },
+          {
+             "id": 14,
+             "title": "2!3!"
+          },
+          {
+             "id": 15,
+             "title": "Interlude: Wings"
+          }
+       ],
+       "description":"Having met their most beautiful moment in life through the ablum series of the same title, BTS now stands before a new door. Set for release on October 10, WINGS contains songs about boys who encounter temptation for the first time and must ponder and agonize in the face of it. As the seven boys experience pain and bliss, they bring forth the image of birds that break out of their shells and try to take flight for the first time.",
+       "pick":"0",
+       "hearts":"4"
+    },
+    {
+        "id":"8",
+       "name": "Young Forever",
+        "picture" : {
+            "src" : "assets/img/youngforever.jpg",
+            "alt" : "Young Forever"
+        },
+       "dateRelease": "2016-05-02",
+       "typeOfAlbum":{
+           "id":"4",
+           "type":"Special Album"
+       },
+       "language":{
+            "id":"1",
+            "lang":"Korean"
+        },
+        "price":"$28",
+       "tracks": [
+          {
+             "id": 1,
+             "title": "Intro: The most beautiful moment"
+          },
+          {
+             "id": 2,
+             "title": "I NEED YOU"
+          },
+          {
+             "id": 3,
+             "title": "Hold Me Tight"
+          },
+          {
+             "id": 4,
+             "title": "Autumn Leaves"
+          },
+          {
+             "id": 5,
+             "title": "Butterfly Mix"
+          },
+          {
+             "id": 6,
+             "title": "RUN"
+          },
+          {
+             "id": 7,
+             "title": "Ma City"
+          },
+          {
+             "id": 8,
+             "title": "Silver Spoon"
+          },
+          {
+             "id": 9,
+             "title": "DOPE"
+          },
+          {
+             "id": 10,
+             "title": "Burning Up (FIRE)"
+          },
+          {
+             "id": 11,
+             "title": "Save ME"
+          },
+          {
+             "id": 12,
+             "title": "Epilogue: Young Forever"
+          }
+       ],
+       "description":" True to the title of the albums, the series has enabled BTS to now be in the most beautiful moment of their lives. The most beautiful moment in life : YOUNG FOREVER is a special album that marks the conclusion of the epic journey of the series, containing the last stories told by young people who, despite an uncertain and insecure reality (HYYH pt.1) continue to surge forward (HYYH pt.2).",
+       "pick":"0",
+       "hearts":"2"
+    },
+    {
+        "id":"9",
+       "name": "HYYH Pt2",
+        "picture" : {
+            "src" : "assets/img/moment2.jpg",
+            "alt" : "HYYH Pt2"
+        },
+       "dateRelease": "2015-11-30",
+       "typeOfAlbum":{
+           "id":"2",
+           "type":"Mini Album"
+       },
+       "language":{
+            "id":"1",
+            "lang":"Korean"
+        },
+        "price":"$25",
+       "tracks": [
+          {
+             "id": 1,
+             "title": "Intro: Never Mind"
+          },
+          {
+             "id": 2,
+             "title": "RUN"
+          },
+          {
+             "id": 3,
+             "title": "Butterfly"
+          },
+          {
+             "id": 4,
+             "title": "Whalien 52"
+          },
+          {
+             "id": 5,
+             "title": "Ma City"
+          },
+          {
+             "id": 6,
+             "title": "Silver Spoon"
+          },
+          {
+             "id": 7,
+             "title": "SKIT: One night in a strange city"
+          },
+          {
+             "id": 8,
+             "title": "Autumn Leaves"
+          },
+          {
+             "id": 9,
+             "title": "OUTRO: House Of Cards"
+          }
+       ],
+       "description":" The most beautiful moment in life pt.1, about people their age being threatened by uncertainty. The most beautiful moment in life pt.2 sings about the energy of youth barreling forward, embracing even the uncertainty and insecurity. Now beginning to taste the bitterness of grown-up life, they can easily sense that life isn't always beautiful. <br/> <br/> However, they continue to sprint forward, relying only on their two destitute legs and the fire in their hearts. There’s nothing else to do but keep running. Facing the powerlessness of one’s youth, they collide and shatter and still cry out that “it’s okay to fall, it’s okay to get hurt.” That is the beauty of this moment.The lyrics are more profound and the music more passionate.",
+       "pick":"1",
+       "hearts":"4"
+    },
+    {
+        "id":"10",
+       "name": "HYYH Pt1",
+       "picture" : {
+            "src" : "assets/img/moment1.jpg",
+            "alt" : "HYYH Pt1"
+        },
+       "dateRelease": "2015-04-29",
+       "typeOfAlbum":{
+           "id":"2",
+           "type":"Mini Album"
+       },
+       "language":{
+            "id":"1",
+            "lang":"Korean"
+        },
+       "price":"$25",
+       "tracks": [
+          {
+             "id": 1,
+             "title": "Intro: The most beautiful moment in life"
+          },
+          {
+             "id": 2,
+             "title": "I NEED U"
+          },
+          {
+             "id": 3,
+             "title": "Hold Me Tight"
+          },
+          {
+             "id": 4,
+             "title": "SKIT: Expectation!"
+          },
+          {
+             "id": 5,
+             "title": "DOPE"
+          },
+          {
+             "id": 6,
+             "title": "Boyz With Fun"
+          },
+          {
+             "id": 7,
+             "title": "Converse High"
+          },
+          {
+             "id": 8,
+             "title": "Moving On"
+          },
+          {
+             "id": 9,
+             "title": "Outro: Love Is Not Over"
+          }
+       ],
+       "description":"No longer just young boys, the album is an introduction to BTS as a group that continues to grow and develop. In each track are distilled poetic and pop emotions that allows the listener to sense both the soft and the resounding musical transformation of the group. BTS has chosen the theme of “the most beautiful moment in life”, the start of one’s young adulthood in which beauty coexists with uncertainty.",
+       "pick":"0",
+       "hearts":"2"
+    },
+    {
+        "id":"11",
+       "name": "Dark & Wild",
+        "picture" : {
+            "src" : "assets/img/dark&wild.jpg",
+            "alt" : "Dark & Wild"
+        },
+       "dateRelease": "2014-08-19",
+       "typeOfAlbum":{
+           "id":"1",
+           "type":"Full-Length Album"
+       },
+       "language":{
+            "id":"1",
+            "lang":"Korean"
+        },
+        "price":"$20",
+       "tracks": [
+          {
+             "id": 1,
+             "title": "Intro: What am i to you"
+          },
+          {
+             "id": 2,
+             "title": "Danger"
+          },
+          {
+             "id": 3,
+             "title": "War of Hormone"
+          },
+          {
+             "id": 4,
+             "title": "Hip Hop Phile"
+          },
+          {
+             "id": 5,
+             "title": "Let Me Know"
+          },
+          {
+             "id": 6,
+             "title": "Rain"
+          },
+          {
+             "id": 7,
+             "title": "BTS Cypher PT.3: KILLER (feat. Supreme Boi)"
+          },
+          {
+             "id": 8,
+             "title": "Interlude: What are you doing now"
+          },
+          {
+             "id": 9,
+             "title": "Could you turn off your cellphone"
+          },
+          {
+             "id": 10,
+             "title": "Embarrassed"
+          },
+          {
+             "id": 11,
+             "title": "24/7=heaven"
+          },
+          {
+             "id": 12,
+             "title": "Look Here"
+          },
+          {
+             "id": 13,
+             "title": "So 4 more"
+          },
+          {
+             "id": 14,
+             "title": "Outro: Do you think it makes sense?"
+          }
+       ],
+       "description":"The boys are no longer in their school uniforms. They have become tougher, singing that their love is not to be treated lightly. A year and two months into their debut, BTS made sure that the visuals, performance and all the elements of their first studio album are flawless. <br/><br/>Tracks that highlight the different genres of hip hop—South, West, Boom Bap and Trap—provide a clear direction of BTS' music. The title track “Danger” is a tightly-composed hybrid hip hop song with a piercing punk-rock guitar sound that features stark rap, a powerful hook and exhilarating shouting.",
+       "pick":"1",
+       "hearts":"5"
+    },
+    {
+        "id":"12",
+       "name": "Skool Luv Affair",
+       "picture" : {
+            "src" : "assets/img/skoolluvaffair.jpg",
+            "alt" : "Skool Luv Affair"
+        },
+       "dateRelease": "2014-02-12",
+       "typeOfAlbum":{
+           "id":"2",
+           "type":"Mini Album"
+       },
+       "language":{
+            "id":"1",
+            "lang":"Korean"
+        },
+        "price":"$18",
+       "tracks": [
+          {
+             "id": 1,
+             "title": "Intro: Skool Luv Affair"
+          },
+          {
+             "id": 2,
+             "title": "Boy In Luv"
+          },
+          {
+             "id": 3,
+             "title": "Skit: Soulmate"
+          },
+          {
+             "id": 4,
+             "title": "Where You From"
+          },
+          {
+             "id": 5,
+             "title": "Just One Day"
+          },
+          {
+             "id": 6,
+             "title": "Tomorrow"
+          },
+          {
+             "id": 7,
+             "title": "BTS Cypher Pt.2 Triptych"
+          },
+          {
+             "id": 8,
+             "title": "Spine Breaker"
+          },
+          {
+             "id": 9,
+             "title": "Jump"
+          },
+          {
+             "id": 10,
+             "title": "Outro: Propose"
+          }
+       ],
+       "description":"As hinted by the title, SKOOL LUV AFFAIR, the album’s main theme is the love that blossoms in the school. This album is a culmination of the “School Trilogy” project that discusses the topics of most interest to teens their own age—dreams, happiness and love. Such penetrating insight into the hearts and minds of young people led to the absolute support that BTS has received from fans their age.",
+       "pick":"0",
+       "hearts":"3"
+    },
+    {
+        "id":"12",
+       "name": "O!RUL8,2?",
+       "picture" : {
+            "src" : "assets/img/orul.jpg",
+            "alt" : "O!RUL8,2?"
+        },
+       "dateRelease": "2013-09-11",
+       "language":{
+            "id":"1",
+            "lang":"Korean"
+        },
+       "typeOfAlbum":{
+           "id":"2",
+           "type":"Mini Album"
+       },
+       "price":"$15",
+       "tracks": [
+          {
+             "id": 1,
+             "title": "INTRO: O!RUL8,2?"
+          },
+          {
+             "id": 2,
+             "title": "N.O"
+          },
+          {
+             "id": 3,
+             "title": "We On"
+          },
+          {
+             "id": 4,
+             "title": "Skit: R U Happy Now?"
+          },
+          {
+             "id": 5,
+             "title": "If I Ruled The World"
+          },
+          {
+             "id": 6,
+             "title": "Coffee"
+          },
+          {
+             "id": 7,
+             "title": "BTS Cypher Pt.1"
+          },
+          {
+             "id": 8,
+             "title": "Attack On Bangthan"
+          },
+          {
+             "id": 9,
+             "title": "Paldogangsan"
+          },
+          {
+             "id": 10,
+             "title": "OUTRO: LUV IN SKOOL"
+          }
+       ],
+       "description":"Lyrics that brutally lay open reality as it is deliver a bold admonition to a world that inflicts despair. Children are raised as studying machines without a chance to think about the future. A world where classmates are not friends but competitors trying to trample each other. BTS sings about the wounds and anguish that such hopeless life has left on today’s teens.",
+       "pick":"0",
+       "hearts":"2"
+    },
+    {
+        "id":"13",
+       "name": "2 COOL 4 SKOOL",
+       "picture": {
+           "src" : "assets/img/2cool4skool.jpg",
+           "alt" : "2 COOL 4 SKOOL"
+        },
+       "dateRelease": "2013-06-12",
+       "typeOfAlbum":{
+           "id":"5",
+           "type":"Single Album"
+       },
+       "language":{
+            "id":"1",
+            "lang":"Korean"
+        }, 
+        "price":"$15",      
+       "tracks": [
+          {
+             "id": 1,
+             "title": "Intro: 2 COOL 4 SKOOL feat. DJ Friz"
+          },
+          {
+             "id": 2,
+             "title": "We are bulletproof PT.2"
+          },
+          {
+             "id": 3,
+             "title": "Skit: Circle room talk"
+          },
+          {
+             "id": 4,
+             "title": "No More Dream"
+          },
+          {
+             "id": 5,
+             "title": "Interlude"
+          },
+          {
+             "id": 6,
+             "title": "Like"
+          },
+          {
+             "id": 7,
+             "title": "Outro: Cirlce room cypher"
+          }
+       ],
+       "description":"Hip hop group BTS has released its debut single 2 COOL 4 SKOOL. While billed as a single, the album boasts an impressive 27-minute runtime. This is the product of the firm conviction and passion of BTS that hip hop musicians must make their voices heard through their albums. BTS has repeatedly said that “hip hop is genuine music for telling one’s own story,” and indeed the members rap about their own experiences and emotions. ",
+       "pick":"0",
+       "hearts":"3"
+    },
+    {
+        "id":"14",
+       "name": "BTS WORLD OST",
+       "picture" : {
+            "src" : "assets/img/ost.jpeg",
+            "alt" : "BTS WORLD OST"
+        },
+       "dateRelease": "2019-06-28",
+       "typeOfAlbum":{
+           "id":"6",
+           "type":"Soundtrack"
+       },
+       "language":{
+            "id":"1",
+            "lang":"Korean"
+        },
+        "price":"$30",
+       "tracks": [
+          {
+             "id": 1,
+             "title": "Heartbeat"
+          },
+          {
+             "id": 2,
+             "title": "Dream Glow (Jin, Jimin, Jungkook, Charlie XCX)"
+          },
+          {
+             "id": 3,
+             "title": "A Brand New Day (j-hope, V, Zara Larsson)"
+          },
+          {
+             "id": 4,
+             "title": "All Night (SUGA, RM, Juice WRLD)"
+          },
+          {
+             "id": 5,
+             "title": "La La La (OKDAL)"
+          },
+          {
+             "id": 6,
+             "title": "You Are Here (Lee Hyun)"
+          }
+       ],
+       "description":"BTS World: Original Soundtrack is the soundtrack album for the Netmarble mobile game of the same name. Released on June 28, 2019, two days after the mobile game's release, the album features four singles by South Korean boy band BTS and instrumentals from the game. Its release was preceded by the singles 'Dream Glow' (a collaboration with Charli XCX), 'A Brand New Day' (a collaboration with Zara Larsson) and 'All Night' (a collaboration with Juice Wrld). On June 26, the song 'Heartbeat' was revealed in the game after its release.",
+       "pick":"0",
+       "hearts":"5"
+    },
+    {
+        "id":"15",
+       "name": "Face Yourself",
+       "picture" : {
+            "src" : "assets/img/faceyourself.png",
+            "alt" : "Face Yourself"
+        },
+       "dateRelease": "2018-04-04",
+       "typeOfAlbum":{
+           "id":"7",
+           "type":"Studio Album"
+       },
+       "language":{
+            "id":"2",
+            "lang":"Japanese"
+        },
+        "price":"$25",
+       "tracks": [
+          {
+             "id": 1,
+             "title": "Intro: Ringwanderung"
+          },
+          {
+             "id": 2,
+             "title": "Best of Me (Japanese Ver.)"
+          },
+          {
+             "id": 3,
+             "title": "Blood Sweat & Tears (Japanese Ver.)"
+          },
+          {
+             "id": 4,
+             "title": "DNA (Japanese Ver.)"
+          },
+          {
+             "id": 5,
+             "title": "Not Today (Japanese Ver.)"
+          },
+          {
+             "id": 6,
+             "title": "Mic Drop (Japanese Ver.)"
+          },
+          {
+             "id": 7,
+             "title": "Don't Leave Me"
+          },
+          {
+             "id": 8,
+             "title": "Go Go (Japanese Ver.)"
+          },
+          {
+             "id": 9,
+             "title": "Crystal Snow"
+          },
+          {
+             "id": 10,
+             "title": "Spring Day (Japanese Ver.)"
+          },
+          {
+             "id": 11,
+             "title": "Let Go"
+          },
+          {
+             "id": 12,
+             "title": "Outro: Crack"
+          }
+       ],
+       "description":"Face Yourself is the third Japanese studio album (fifth overall) by South Korean boy band BTS. It was released on April 4, 2018. It contains Japanese versions of songs previously released on their 2016 Wings album and 2017 Love Yourself: Her EP, as well as three brand new, original Japanese-language tracks: 'Don't Leave Me', 'Let Go', and 'Crystal Snow'.",
+       "pick":"0",
+       "hearts":"3"
+    },
+    {
+        "id":"16",
+       "name": "Youth",
+       "picture" : {
+            "src" : "assets/img/youth.jpg",
+            "alt" : "Youth"
+        },
+       "dateRelease": "2015-09-07",
+       "typeOfAlbum":{
+           "id":"7",
+           "type":"Studio Album"
+       },
+       "language":{
+            "id":"2",
+            "lang":"Japanese"
+        },
+        "price":"$15",
+       "tracks": [
+          {
+             "id": 1,
+             "title": "Introduction: Youth"
+          },
+          {
+             "id": 2,
+             "title": "RUN (Japanese Ver.)"
+          },
+          {
+             "id": 3,
+             "title": "FIRE (Japanese Ver.)"
+          },
+          {
+             "id": 4,
+             "title": "DOPE (Japanese Ver.)"
+          },
+          {
+             "id": 5,
+             "title": "Good Day"
+          },
+          {
+             "id": 6,
+             "title": "Save Me (Japanese Ver.)"
+          },
+          {
+             "id": 7,
+             "title": "Boyz With Fun (Japanese Ver.)"
+          },
+          {
+             "id": 8,
+             "title": "Silver Spoon (Japanese Ver.)"
+          },
+          {
+             "id": 9,
+             "title": "Wishing on a Star"
+          },
+          {
+             "id": 10,
+             "title": "Butterfly (Japanese Ver.)"
+          },
+          {
+             "id": 11,
+             "title": "For You"
+          },
+          {
+             "id": 12,
+             "title": "Epilogue: Younge Forever (Japanese Ver.)"
+          }
+       ],
+       "description":"Youth is the second Japanese studio album and third studio album overall by South Korean boy band BTS, which was released on September 7, 2016. The album features 13 tracks.",
+       "pick":"0",
+       "hearts":"4"
+    },
+    {
+        "id":"17",
+       "name": "Wake Up",
+       "picture" : {
+            "src" : "assets/img/lights.jpg",
+            "alt" : "Wake Up"
+        },
+       "dateRelease": "2014-12-24",
+       "typeOfAlbum":{
+           "id":"7",
+           "type":"Studio Album"
+       },
+       "language":{
+           "id":"2",
+           "lang":"Japanese"
+       },
+       "price":"$15",
+       "tracks": [
+          {
+             "id": 1,
+             "title": "Intro"
+          },
+          {
+             "id": 2,
+             "title": "The Stars"
+          },
+          {
+             "id": 3,
+             "title": "Jump (Japanese Ver.)"
+          },
+          {
+             "id": 4,
+             "title": "Danger (Japanese Ver.)"
+          },
+          {
+             "id": 5,
+             "title": "Boy In Luv (Japanese Ver.)"
+          },
+          {
+             "id": 6,
+             "title": "Just one Day (Japanese Ver.)"
+          },
+          {
+             "id": 7,
+             "title": "I Like It Pt.2"
+          },
+          {
+             "id": 8,
+             "title": "No More Dream (Japanese Ver.)"
+          },
+          {
+             "id": 9,
+             "title": "Wake Up"
+          },
+          {
+             "id": 10,
+             "title": "Outro"
+          }
+       ],
+       "description":"Wake Up is the first Japanese studio album and second studio album overall by South Korean boy band BTS, which was released on December 24, 2014. The album features 13 tracks, including the Japanese versions of 'No More Dream', 'Boy in Luv', and 'Danger', as well as two original Japanese songs: 'The Stars' and 'Wake Up'.",
+       "pick":"0",
+       "hearts":"1"
+    }
+ ]

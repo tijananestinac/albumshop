@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css?family=Gupter:700|Lato&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+h1,h2,h3,h4,h5{
+    font-family: 'Gupter', serif;
+}
+p{
+    line-height: 1.6;
+}
+#logo{
+    display: flex;
+    justify-content: center;
+}
+#logo img{
+    width: 35px;
+}
+#nav{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+#nav li, #menuInFooter li{
+    list-style-type: none;
+}
+footer{
+    background-color: #48B5DC;
+}
+#social{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+#social li{
+    list-style-type: none;
+}
+
+/*  HOME */
+#pocetna{
+    width: 100%;
+}
+#slider{
+    width: 100%;
+    position: relative;
+}
+#slider img{
+    width: 100%;
+}
+
+#photoSlider img, #slider img{
+    display: none;
+}
+#photoSlider .aktivna, #slider .aktivna{
+    display:block;
+}
+#latest h2{
+    font-size: 25px;
+}
+.najnoviji{
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+.nasIzbor{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+.slika{
+    width: 50%;
+    
+}
+.slika img{
+    width: 85%;
+}
+.tekst{
+    width: 50%;
+}
+
+/* ALBUMS */
+.album h2{
+    font-size: 25px;
+}
+.album{
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    margin-bottom: 20px !important;
+}
+.hearts{
+    color: #48B5DC;
+}
+.nemaProizvoda{
+    min-height: 282px;
+    border: 1px solid rgba(0,0,0,.125);
+    margin: 20px auto;
+}
+.nemaProizvoda h3{
+    padding-top: 60px;
+    color: #48B5DC;
+}
+button{
+    width: 150px;
+}
+#filteri{
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+/* AUTOR */
+#autor{
+    border-bottom: 1px solid #48B5DC;
+}
+#blokAutor{
+    display: flex;
+    justify-content: center;
+}
+#blokAutor a{
+    color: #48B5DC;
+}
+#autorSlika{
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+}
+
+/* CONTACT */
+#contact{
+    border-bottom: 1px solid #48B5DC;
+}
+#quote{
+    color: #48B5DC;
+    font-family: -webkit-body;
+    font-style: italic;
+    font-size: 25px;
+}
+#logo i {
+    color: #48B5DC;
+}
+.boja{
+    color: #48B5DC;
+}
+
+
+
+/* CART */
+#cart{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+/* DUGMICI */
+#button, .dugme, .dugmeRemove{
+    background-color: #48B5DC;
+    border: 1px solid #48B5DC;
+}
+
+/* SCROLL */
+.scrollToTop{
+    text-align: center;
+    padding-top: 5px;
+    font-size: 40px;
+    width: 65px;
+    height: 65px;
+    position: fixed;
+    right: 25px;
+    bottom: 30px;
+}
+
+
+/* QUERIE */
+@media screen and (max-width: 900px){
+    .nasIzbor{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .slika{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        
+    }
+    .tekst{
+        width: 100%;
+        padding-right: 0px !important;
+    }
+    .slika img{
+        width: 65%;
+        padding-left: 0px !important;
+    }
+    #aboutBTS{
+        padding-top: 10px;
+    }
+    #drugiPasus{
+        display: none;
+    }
+   
+    #autorSlika{
+        padding-left: 10% !important;
+    }
+}

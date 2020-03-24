@@ -1,0 +1,24 @@
+[
+    {
+        "name":"Home",
+        "href":"index.html"
+    },
+    {
+        "name":"Albums",
+        "href":"albums.html"
+    },
+    {
+        "name":"Author",
+        "href":"author.html",
+        "id":"author"
+    },
+    {
+        "name":"Contact",
+        "href":"contact.html"
+    },
+    {
+        "name": "<i class='fas fa-shopping-cart'></i>",
+        "href": "cart.html"
+    }
+    
+]

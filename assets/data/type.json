@@ -1,0 +1,30 @@
+[
+    {
+        "id":"1",
+        "type":"Full-Length Album"
+    },
+    {
+        "id":"2",
+        "type":"Mini Album"
+    },
+    {
+        "id":"3",
+        "type":"Repackaged Album"
+    },
+    {
+        "id":"4",
+        "type":"Special Album"
+    },
+    {
+        "id":"5",
+        "type":"Single Album"
+    },
+    {
+        "id":"6",
+        "type":"Soundtrack"
+    },
+    {
+        "id":"7",
+        "type":"Studio Album"
+    }
+]
